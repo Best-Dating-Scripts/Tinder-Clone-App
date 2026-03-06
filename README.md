@@ -1,5 +1,6 @@
 # Start a Profitable Dating Marketplace Business with Tinder Clone App 
 
+![Image](https://raw.githubusercontent.com/Best-Dating-Scripts/Tinder-Clone-App/refs/heads/main/truties-moderator-app.webp)
 Bestdatingscripts offers a feature-rich and fully customizable **[Tinder clone app](https://www.bestdatingscripts.com/tinder-clone)** for startups and entrepreneurs. With this software, you can create a safe, quick, and easy-to-use dating app in just 24 hours. You can also start making money from different sources.
 
 This ready-made Tinder clone has clean and bug-free code. You can install and launch your dating platform easily, even without technical skills. Dating apps now are in great demand and by using this software, you can launch a dating app like Tinder in just 24 hours.
